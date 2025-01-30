@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://traineeag.com.br/sitemap.xml
